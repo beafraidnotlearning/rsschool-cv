@@ -20,3 +20,10 @@ Why i decided to become a web developer:
 
 - I've been looking for a programming area, that would really interest me for a long time. Only when I helped develop a site to one of my friends. I realized that I want to continue to do this. From that moment on, I am looking for development opportunities in the area of web-development.
 - I believe that The Rolling Scopes School courses are a great opportunity to become a high-class developer and I will definitely take advantage of it.
+
+## Skills
+
+- HTML/CSS
+- JavaScript
+- C#/ASP.NET
+- MySQL
