@@ -84,3 +84,7 @@ _My courses and trainings completed:_
 ## Education
 
 - I studied at the BNTU, faculty FITR during 2014-2018, and studied at the BSTU, faculty FIT during 2018-2020.
+
+## Level of English
+
+- I watch serials in English and sometimes translate books. Also I doing a course in English every week. My English level is A2.
