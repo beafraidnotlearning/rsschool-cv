@@ -83,6 +83,10 @@ main .grid:first-child {
   background-color: #ffffff;
 }
 
+.contacts-content li {
+  list-style-type: none;
+}
+
 .avatar {
   width: 200px;
   height: 200px;
@@ -225,6 +229,10 @@ ul.goals li span {
 
 .progress-bars {
   padding-left: 40px;
+}
+
+.progress-bars li {
+  list-style-type: none;
 }
 
 .progress-bar {
